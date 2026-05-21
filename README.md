@@ -49,7 +49,7 @@ Vous avez vu dans cette séquence comment créer des secrets GiHUB afin de mettr
 Objectif : Déployer votre service web Render  
 Difficulté : Faible (~10 minutes)
 ---------------------------------------------------
-Procédez à la modification de ce README.md (ex: Mon NOM Prénom ici) et Commitez. La création du Service Web Render est automatique.  
+Procédez à la modification de ce README.md (ex: Josué Perrault) et Commitez. La création du Service Web Render est automatique.  
 
 <img width="2150" height="616" alt="image" src="https://github.com/user-attachments/assets/7254a9c4-1bc7-4338-b25e-cad8259d396b" />  
 
